@@ -40,10 +40,8 @@ This project fetches and visualizes real-time data from the following sources:
 ## Data Sources
 
 Earthquake Data: Retrieved from the USGS GeoJSON API:
-USGS Earthquake Data (Past Week)
+USGS Earthquake Data (Past Week) [USGS Earthquake Data (Past Week](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 
-Tectonic Plate Boundaries: Sourced from Fraxen’s GitHub repository:
-Tectonic Plates GeoJSON
 
 ## Technologies Used
 
