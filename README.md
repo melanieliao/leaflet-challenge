@@ -62,3 +62,5 @@ Open index.html in a web browser.
 Ensure an active internet connection to fetch live data from USGS.
 
 ## Screenshot
+![Earthquake Map Screenshot](images/earthquake_map.png)
+
